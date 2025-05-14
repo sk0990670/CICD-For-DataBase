@@ -33,7 +33,7 @@ A simple Node.js application demonstrating database migrations with PostgreSQL u
 2. Install dependencies:
    ```bash
    npm install
-   npm install pg@8.11.3
+
 
 
 
